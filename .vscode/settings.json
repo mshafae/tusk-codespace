@@ -1,0 +1,21 @@
+{
+  "C_Cpp.clang_format_fallbackStyle": "Google",
+    
+  "files.exclude": {
+    "**/.??*": true,
+    "**/*.d": true,
+    "**/*.o": true,
+    "**/a.out": true,
+    "**/Makefile": true,
+    "**/compile_commands.json": true,
+    "**/unittest": true,
+    "**/test_detail.json": true,
+    "**/*_unittest.cc": true,
+    "**/*.py": true,
+  },
+    
+  "githubPullRequests.ignoredPullRequestBranches": [
+    "main"
+  ]
+}
+
